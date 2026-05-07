@@ -1,0 +1,47 @@
+15:28:03.770 [main] ERROR TestCases.TC001_AccountRegistrationTest2 - Test Failed...
+15:29:29.980 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:29:30.100 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:29:36.168 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:29:41.664 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******validating expected message**********
+15:29:42.439 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******finished TC001**********
+15:38:17.438 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:38:17.609 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:38:21.268 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:38:24.591 [main] ERROR TestCases.TC001_AccountRegistrationTest2 - Test Failed...
+15:38:38.359 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:38:38.458 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:38:42.884 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:38:47.870 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******validating expected message**********
+15:38:48.422 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******finished TC001**********
+15:44:15.736 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:44:15.818 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:44:21.026 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:44:24.213 [main] ERROR TestCases.TC001_AccountRegistrationTest2 - Test Failed...
+15:44:27.613 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:44:27.614 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:44:34.477 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:44:42.005 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******validating expected message**********
+15:44:42.072 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******finished TC001**********
+15:44:46.475 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:44:46.476 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:44:51.013 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:44:55.870 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******validating expected message**********
+15:44:55.920 [main] INFO  TestCases.TC001_AccountRegistrationTest2 - ******finished TC001**********
+15:45:58.960 [TestNG-tests-1] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:45:59.115 [TestNG-tests-1] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:46:02.503 [TestNG-tests-2] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:46:02.513 [TestNG-tests-2] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:46:11.904 [TestNG-tests-1] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:46:12.509 [TestNG-tests-2] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:46:23.651 [TestNG-tests-1] ERROR TestCases.TC001_AccountRegistrationTest2 - Test Failed...
+15:46:23.800 [TestNG-tests-2] ERROR TestCases.TC001_AccountRegistrationTest2 - Test Failed...
+15:46:25.430 [TestNG-tests-3] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:46:25.431 [TestNG-tests-3] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:46:32.599 [TestNG-tests-3] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:46:33.054 [TestNG-tests-3] ERROR TestCases.TC001_AccountRegistrationTest2 - Test Failed...
+15:48:11.760 [TestNG-tests-2] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:48:11.914 [TestNG-tests-2] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:48:13.172 [TestNG-tests-1] INFO  TestCases.TC001_AccountRegistrationTest2 - ******Starting TC001**********
+15:48:13.174 [TestNG-tests-1] INFO  TestCases.TC001_AccountRegistrationTest2 - ******CLICK on register**********
+15:48:20.693 [TestNG-tests-2] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********
+15:48:20.805 [TestNG-tests-1] INFO  TestCases.TC001_AccountRegistrationTest2 - ******providing costumer details**********

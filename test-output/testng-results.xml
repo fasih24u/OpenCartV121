@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-06T21:12:52 CDT" name="Suite" finished-at="2026-05-06T21:13:16 CDT" duration-ms="24176">
+    <groups>
+      <group name="Master">
+        <method signature="TC002_Login_Test.Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@bcec361]" name="Mylogin" class="TestCases.TC002_Login_Test"/>
+        <method signature="TC002_Login_Test.Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@bccb269]" name="Mylogin" class="TestCases.TC002_Login_Test"/>
+        <method signature="TC002_Login_Test.Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@17f7cd29]" name="Mylogin" class="TestCases.TC002_Login_Test"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC002_Login_Test.Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@bcec361]" name="Mylogin" class="TestCases.TC002_Login_Test"/>
+        <method signature="TC002_Login_Test.Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@bccb269]" name="Mylogin" class="TestCases.TC002_Login_Test"/>
+        <method signature="TC002_Login_Test.Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@17f7cd29]" name="Mylogin" class="TestCases.TC002_Login_Test"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2026-05-06T21:12:52 CDT" name="EdgeTest" finished-at="2026-05-06T21:13:07 CDT" duration-ms="15047">
+      <class name="TestCases.TC002_Login_Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_Login_Test@bccb269]" started-at="2026-05-06T21:12:52 CDT" name="setup" finished-at="2026-05-06T21:12:59 CDT" duration-ms="6499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@bccb269]" started-at="2026-05-06T21:12:59 CDT" name="Mylogin" finished-at="2026-05-06T21:13:06 CDT" duration-ms="7539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC002_Login_Test@bccb269]" started-at="2026-05-06T21:13:06 CDT" name="tearDown" finished-at="2026-05-06T21:13:07 CDT" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC002_Login_Test -->
+    </test> <!-- EdgeTest -->
+    <test started-at="2026-05-06T21:12:52 CDT" name="ChromeTest" finished-at="2026-05-06T21:13:08 CDT" duration-ms="16150">
+      <class name="TestCases.TC002_Login_Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_Login_Test@bcec361]" started-at="2026-05-06T21:12:52 CDT" name="setup" finished-at="2026-05-06T21:12:58 CDT" duration-ms="5348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@bcec361]" started-at="2026-05-06T21:12:58 CDT" name="Mylogin" finished-at="2026-05-06T21:13:08 CDT" duration-ms="10025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC002_Login_Test@bcec361]" started-at="2026-05-06T21:13:08 CDT" name="tearDown" finished-at="2026-05-06T21:13:08 CDT" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC002_Login_Test -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2026-05-06T21:12:52 CDT" name="FireFoxTest" finished-at="2026-05-06T21:13:16 CDT" duration-ms="24171">
+      <class name="TestCases.TC002_Login_Test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_Login_Test@17f7cd29]" started-at="2026-05-06T21:12:52 CDT" name="setup" finished-at="2026-05-06T21:13:09 CDT" duration-ms="16381" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Mylogin()[pri:0, instance:TestCases.TC002_Login_Test@17f7cd29]" started-at="2026-05-06T21:13:09 CDT" name="Mylogin" finished-at="2026-05-06T21:13:15 CDT" duration-ms="6926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC002_Login_Test@17f7cd29]" started-at="2026-05-06T21:13:15 CDT" name="tearDown" finished-at="2026-05-06T21:13:16 CDT" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC002_Login_Test -->
+    </test> <!-- FireFoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>

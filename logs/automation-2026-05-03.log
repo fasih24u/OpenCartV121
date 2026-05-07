@@ -1,0 +1,54 @@
+17:21:43.565 [main] ERROR TestCases.TC001_AccountRegistrationTest3 - Test Failed...
+17:21:57.545 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+17:21:57.546 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+17:22:02.626 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+17:23:18.054 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******Starting TC001**********
+17:23:18.117 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******CLICK on register**********
+17:23:24.321 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******providing costumer details**********
+17:23:39.376 [main] ERROR TestCases.TC001_AccountRegistrationTest3 - Test Failed...
+17:23:42.576 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+17:23:42.576 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+17:23:49.653 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+19:49:15.163 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******Starting TC001**********
+19:49:15.231 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******CLICK on register**********
+19:49:20.813 [main] ERROR TestCases.TC001_AccountRegistrationTest3 - Test Failed...
+19:49:26.635 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+19:49:26.636 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+19:49:33.844 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+20:25:52.366 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******Starting TC001**********
+20:25:52.444 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******CLICK on register**********
+20:25:58.150 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******providing costumer details**********
+20:26:13.211 [main] ERROR TestCases.TC001_AccountRegistrationTest3 - Test Failed...
+20:26:16.516 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+20:26:16.517 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+20:26:24.418 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+20:27:59.055 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+20:27:59.114 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+20:28:04.185 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+20:50:19.356 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+20:50:19.437 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+20:50:25.607 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+20:56:17.740 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+20:56:17.802 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+20:56:24.865 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+21:50:13.548 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+21:50:13.656 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+21:50:20.327 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+21:01:18.802 [main] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+21:01:19.001 [main] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+21:01:21.423 [main] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+21:02:07.196 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******Starting TC001**********
+21:02:07.325 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******CLICK on register**********
+21:02:11.063 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******providing costumer details**********
+21:02:26.097 [main] ERROR TestCases.TC001_AccountRegistrationTest3 - Test Failed...
+21:04:58.595 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******Starting TC001**********
+21:04:58.684 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******CLICK on register**********
+21:05:00.808 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******providing costumer details**********
+21:05:17.404 [main] ERROR TestCases.TC001_AccountRegistrationTest3 - Test Failed...
+21:06:14.530 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******Starting TC001**********
+21:06:14.609 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******CLICK on register**********
+21:06:20.511 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******providing costumer details**********
+21:06:28.118 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******validating expected message**********
+21:06:28.276 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******finished TC001**********
+21:07:16.480 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******Starting TC001**********
+21:07:16.567 [main] INFO  TestCases.TC001_AccountRegistrationTest3 - ******CLICK on register**********
