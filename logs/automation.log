@@ -1,1 +1,10 @@
 21:14:29.730 [TestNG-tests-3] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+21:34:56.528 [TestNG-tests-2] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+21:34:56.650 [TestNG-tests-2] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+21:34:58.408 [TestNG-tests-1] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+21:34:58.414 [TestNG-tests-1] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+21:35:09.732 [TestNG-tests-3] INFO  TestCases.TC002_Login_Test - ******Starting TC001**********
+21:35:09.740 [TestNG-tests-3] INFO  TestCases.TC002_Login_Test - ******CLICK on register**********
+21:35:12.043 [TestNG-tests-1] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+21:35:14.622 [TestNG-tests-2] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
+21:35:26.070 [TestNG-tests-3] INFO  TestCases.TC002_Login_Test - ******finished TC001**********
